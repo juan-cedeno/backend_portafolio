@@ -1,12 +1,7 @@
 {
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig.json to read more about this file */
-    "include" : [
-      "/**/*.ts"   /* Include every ts file in source folder */
-  ],
-  "exclude" : [
-      "node_modules"  /* exclude everything in  node_modules */
-  ],
+   
 
     /* Projects */
     // "incremental": true,                              /* Enable incremental compilation */
